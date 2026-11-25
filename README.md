@@ -1,1 +1,0 @@
-# netra_proj
